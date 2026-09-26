@@ -17,6 +17,16 @@
 
 [在线体验机器学习工作台](https://sjsj20060407-droid.github.io/machine-learning-workbench/)
 
+**[随机过程练习室](https://github.com/sjsj20060407-droid/stochastic-processes)**  
+从概率基础到马尔可夫链、泊松过程和布朗运动，包含分步练习、交互实验和可运行的 Python 小项目。
+
+[在线体验随机过程工作台](https://sjsj20060407-droid.github.io/stochastic-processes/)
+
+**[宏观经济学练习室](https://github.com/sjsj20060407-droid/macroeconomics)**  
+从 GDP 与价格指标到 IS–LM、经济政策和长期增长，包含练习、交互实验和模型计算小项目。
+
+[在线体验宏观经济学工作台](https://sjsj20060407-droid.github.io/macroeconomics/)
+
 ## 数据分析项目
 
 **[online-retail-rfm-analysis](https://github.com/sjsj20060407-droid/online-retail-rfm-analysis)**  
