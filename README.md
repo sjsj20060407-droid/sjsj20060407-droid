@@ -10,8 +10,12 @@
 **[高维数据分析 · 回归练习室](https://github.com/sjsj20060407-droid/SUFE-notes-calculus/tree/main/high-dimensional)**  
 面向回归与高维数据分析学习的静态网页：基础诊断、R 入门、分步练习、互动实验、模拟测验和复习记录，另附线性回归复现实例。
 
+[在线体验高维数据工作台](https://sjsj20060407-droid.github.io/SUFE-notes-calculus/high-dimensional/)
+
 **[机器学习练习室](https://github.com/sjsj20060407-droid/machine-learning-workbench)**  
 从 Python 入门到模型评估的分步学习路线，包含练习、交互实验和三个可运行的小项目。
+
+[在线体验机器学习工作台](https://sjsj20060407-droid.github.io/machine-learning-workbench/)
 
 ## 数据分析项目
 
